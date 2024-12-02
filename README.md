@@ -17,4 +17,4 @@ This is a review of a simple drop-down menu. 😌
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/shiva.rahimitabar.dev) and [gmail](rahimitabarshiva@gmail.com)
+- How to reach me : with my [instagram](https://www.instagram.com/shiva.rahimitabar.dev) 
